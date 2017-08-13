@@ -47,3 +47,19 @@ Step3:
 	-"btton.py" is a GUI for button and pops a window on click.
 	Run the files by typing "python camera.py", "python askfile.py" and "python btton.py" respectively.
 	
+Step4:
+	Make a network to detect faces in videos or webcam on live stream. 
+	Face Detection in a video along with GUI is made and the faces are cropped and saved in a folder.
+	-Use OpenCV to read and perform various operations.
+	-Do 'Object Detection' using Haar feature-based cascade classifiers. Repository contains the cascade folder for eye and face detection.
+	-For GUI of the neural network, use Tkinter and OpenCV.
+	
+	Repository contains Video-Face-Detection folder.
+	Run the files by typing "python gui.py" on terminal.
+	 
+	
+	
+	
+	
+	
+	
