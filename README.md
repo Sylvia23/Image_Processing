@@ -32,6 +32,7 @@ Step1:
 	
 Step2:
 	Make a neural network that detect faces and eyes in images using opencv and haarcascades.
+	
 	Find a folder named "Eyes and face Detection".
 	Run it by typing "python face.py" and "python eye_and_face_detection.py" respectively on terminal.
 	
@@ -39,6 +40,7 @@ Step3:
 	Start making GUI for neural networks.
 	For this, use OpenCV along with 'Tkinter' which is a standard package in Python.
 	Insure OpenCV is installed on Linux.
+	
 	Repository contains 'Tkinter' named folder which contains files that demonstrates some features of tkinter.
 	-"camera.py" opens a videoa and contains a button through which you can capture any moment of the video and save.
 	-"askfile.py" contains GUI for file browse.
