@@ -49,6 +49,7 @@ Step3:
 	
 Step4:
 	Make a network to detect faces in videos or webcam on live stream. 
+	
 	Face Detection in a video along with GUI is made and the faces are cropped and saved in a folder.
 	-Use OpenCV to read and perform various operations.
 	-Do 'Object Detection' using Haar feature-based cascade classifiers. Repository contains the cascade folder for eye and face detection.
